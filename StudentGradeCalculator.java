@@ -43,3 +43,18 @@ public class StudentGradeCalculator{
 
     
 }
+
+
+/*
+Enter the number of subjects: 5
+Enter marks obtained in each subject (out of 100):
+Subject 1: 99
+Subject 2: 99
+Subject 3: 99
+Subject 4: 96
+Subject 5: 100
+
+Results:
+Total Marks: 493
+Average Percentage: 98.6
+Grade: A*/
